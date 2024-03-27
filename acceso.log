@@ -1,0 +1,13 @@
+usuario logeado: andres con 24 años de edad
+hubo un error al ejecutar el inicio, error: 127
+usuario logeado: juan con 20 años de edad
+usuario logeado: andres con 12 años de edad, solicita buscar: /c/Users/andre/Desktop/shellbash/CourseShellScripting/archivo
+no se encontro el archivo: /c/Users/andre/Desktop/shellbash/CourseShellScripting/archivo, error: 127
+usuario logeado: adres con 11 años de edad, solicita buscar: /c/Users/andre/Desktop/shellbash/CourseShellScripting/archivo
+no se encontro el archivo: /c/Users/andre/Desktop/shellbash/CourseShellScripting/archivo, error: 127
+usuario logeado: juan con 12 años de edad, solicita buscar: /c/Users/andre/Desktop/shellbash/CourseShellScripting/dinamico.sh
+no se encontro el archivo: /c/Users/andre/Desktop/shellbash/CourseShellScripting/dinamico.sh, error: 127
+usuario logeado: najn con 23 años de edad, solicita buscar: /c/Users/andre/Desktop/shellbash/CourseShellScripting/dinamico.sh
+no se encontro el archivo: /c/Users/andre/Desktop/shellbash/CourseShellScripting/dinamico.sh, error: 
+usuario logeado: pedro con 11 años de edad, solicita buscar: /c/Users/andre/Desktop/shellbash/CourseShellScripting/dinamico.sh
+se encontro el archivo /c/Users/andre/Desktop/shellbash/CourseShellScripting/dinamico.sh correctamente 
